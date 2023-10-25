@@ -1,5 +1,5 @@
 created the main python file
-import stream lit 
+import streamlit 
 streamlit.title('My parents new healty diner')
 stramlit.header('Breakfast menu')
 streamlit.text('🥣omega 3 & burbury oatmeal')
